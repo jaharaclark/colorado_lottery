@@ -172,7 +172,7 @@ pry(main)> lottery.can_register?(frederick, mega_millions)
 pry(main)> lottery.can_register?(benjamin, mega_millions)
 #=> false
 
-pry(main)> lottery.can_register?(frederick, cash_5)
+pry(main)> lottery.can_register?(benjamin, mega_millions)
 #=> false
 ```
 
